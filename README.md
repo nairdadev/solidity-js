@@ -1,4 +1,4 @@
-# WIP solidity-js
+#solidity-js
 
 ## The stack and tools of this application is:
 
